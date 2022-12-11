@@ -1,0 +1,21 @@
+﻿<Window x:Class="Prsi.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Prsi"
+        mc:Ignorable="d"
+        WindowState="Maximized"
+        Loaded="Window_Loaded"
+        MinHeight="1080" MinWidth="1920"
+        MaxHeight="1080" MaxWidth="1920"
+        Title="Prsi" Height="1080" Width="1920">
+    
+    <Grid Name="mainGrid" Column="1920" Row="1080" MouseLeftButtonDown="cardClick" GotMouseCapture="cardHover">
+        <Grid.Background>
+            <ImageBrush ImageSource="C:\Users\dodis\RiderProjects\Prsi\Prsi\images\background.png"></ImageBrush>
+        </Grid.Background>
+        <TextBlock Name="textBlock" Margin="700, 700, 10, 10" Visibility="Visible" Height="100" Width="1350" FontSize="50"></TextBlock>
+    </Grid>
+
+</Window>

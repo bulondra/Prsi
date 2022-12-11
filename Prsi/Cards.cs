@@ -1,0 +1,39 @@
+﻿namespace Prsi
+{
+    // List of all cards (only type)
+    public enum Cards
+    {
+        HEARTS_SEVEN,
+        HEARTS_EIGHT,
+        HEARTS_NINE,
+        HEARTS_TEN,
+        HEARTS_LOWER,
+        HEARTS_CHANGER,
+        HEARTS_KING,
+        HEARTS_STOP,
+        BALLS_SEVEN,
+        BALLS_EIGHT,
+        BALLS_NINE,
+        BALLS_TEN,
+        BALLS_LOWER,
+        BALLS_CHANGER,
+        BALLS_KING,
+        BALLS_STOP,
+        LEAVES_SEVEN,
+        LEAVES_EIGHT,
+        LEAVES_NINE,
+        LEAVES_TEN,
+        LEAVES_LOWER,
+        LEAVES_CHANGER,
+        LEAVES_KING,
+        LEAVES_STOP,
+        ACORN_SEVEN,
+        ACORN_EIGHT,
+        ACORN_NINE,
+        ACORN_TEN,
+        ACORN_LOWER,
+        ACORN_CHANGER,
+        ACORN_KING,
+        ACORN_STOP
+    }
+}

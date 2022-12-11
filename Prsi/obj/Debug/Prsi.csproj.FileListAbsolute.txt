@@ -1,0 +1,17 @@
+C:\Users\dodis\RiderProjects\Prsi\Prsi\bin\Debug\Prsi.exe.config
+C:\Users\dodis\RiderProjects\Prsi\Prsi\bin\Debug\Prsi.exe
+C:\Users\dodis\RiderProjects\Prsi\Prsi\bin\Debug\Prsi.pdb
+C:\Users\dodis\RiderProjects\Prsi\Prsi\obj\Debug\Prsi.csproj.AssemblyReference.cache
+C:\Users\dodis\RiderProjects\Prsi\Prsi\obj\Debug\Prsi.csproj.SuggestedBindingRedirects.cache
+C:\Users\dodis\RiderProjects\Prsi\Prsi\obj\Debug\MainWindow.g.cs
+C:\Users\dodis\RiderProjects\Prsi\Prsi\obj\Debug\App.g.cs
+C:\Users\dodis\RiderProjects\Prsi\Prsi\obj\Debug\Prsi_MarkupCompile.cache
+C:\Users\dodis\RiderProjects\Prsi\Prsi\obj\Debug\Prsi_MarkupCompile.lref
+C:\Users\dodis\RiderProjects\Prsi\Prsi\obj\Debug\MainWindow.baml
+C:\Users\dodis\RiderProjects\Prsi\Prsi\obj\Debug\Prsi.g.resources
+C:\Users\dodis\RiderProjects\Prsi\Prsi\obj\Debug\Prsi.Properties.Resources.resources
+C:\Users\dodis\RiderProjects\Prsi\Prsi\obj\Debug\Prsi.csproj.GenerateResource.cache
+C:\Users\dodis\RiderProjects\Prsi\Prsi\obj\Debug\Prsi.csproj.CoreCompileInputs.cache
+C:\Users\dodis\RiderProjects\Prsi\Prsi\obj\Debug\Prsi.exe
+C:\Users\dodis\RiderProjects\Prsi\Prsi\obj\Debug\Prsi.pdb
+C:\Users\dodis\RiderProjects\Prsi\Prsi\obj\Debug\Prsi_Content.g.cs
